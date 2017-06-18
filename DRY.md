@@ -25,4 +25,4 @@
   - 自動実行環境([Jenkins](https://jenkins.io/))    
 - ドキュメント    
   - 同内容の複数記述を避ける    
-  - コードから自動生成([Doxygen](https://www.doxygen.jp/))    
+  - コードから自動生成([Doxygen](http://www.doxygen.jp/))    
